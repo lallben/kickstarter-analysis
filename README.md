@@ -24,7 +24,7 @@ Since the budget for the play is at the very minimum $10,000, based on the data 
 The data covers all productions whereas Louise's play is new.
 The audience in various countries may have different responses and this has not been factored in.
 Amounts pledged eventually realised is not available, there is an assumption that all pledges came to fruition.
-###Some other possible tables and/or graphs that we could create
+### Some other possible tables and/or graphs that we could create
 The Outcomes based on Launch Date as well as Goals could be further relevant if anaylsed for the past three years and then the results for the overall date be compared to the most result trends. This would help further substantiate or investigate the conclusions drawn.
 I would add a table to see the Outcomes based on Launch Date for all the campaigns in order to see if there was any consistency with the successful window for a launch.
 Analysing the data based on different currencies would be helpful and may perhaps throw more insight.
