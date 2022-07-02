@@ -17,6 +17,7 @@ As the chart indicates, it appears that fundraising campaigns that raise less th
 - The second challenge was actually trying to figure out how to update the README on Git Hub. I ended up doing a lot of commits before I realised that I could have just previewed my work and then done one final commit.
 - Another challenge was to figure out how to embed the images - I once again read through the writing guide and was happy when it worked.
 - I still have not figured out how to put in line breaks in the README... and so I use the 'list' function to make this work but I can't use that for everything...
+- I am trying to change the chart that I initially linked to the README and I cannot seem to make it work. Even though I uploaded a new chart, it still shows the older one.
 ## Results
 ### Conclusions based on Launch Date
 The window for launching a fundraising campaign needs to be betwen April & August, while keeping in mind that the fundraising campaigns with the highest rate of success were launched between May & July.
