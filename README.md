@@ -7,7 +7,8 @@ Since she is new to the world of fundraising I have prepared a report analysing 
 One of the challenges with the data that I looked at was that it covered all kinds of productions and did not necessarily focussed on brand new productions. Since Lousie's play is new and will be presented for the first time it would have been more relevant to have data that would relate specifically to this category of production.
 The second challenge is that the data covers audience in the US & Great Britian with campaigns being run for two different audience. We have assumed that theatre goers on either side of the 'pond' have similar tastes and responses.
 ### Analysis of Outcomes Based on Launch Date
-
+![Chart of Outcomes based on Launch Date](https://github.com/lallben/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+As the chart indicates, the best time to launch the fundraiser would be between April to August. Based on the data available it appears that fundraising campaigns launched between May & July have had the highest rate of success in the past.
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
