@@ -10,7 +10,8 @@ The second challenge is that the data covers audience in the US & Great Britian 
 ![Chart of Outcomes based on Launch Date](https://github.com/lallben/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 As the chart indicates, the best time to launch the fundraiser would be between April to August. Based on the data available it appears that fundraising campaigns launched between May & July have had the highest rate of success in the past.
 ### Analysis of Outcomes Based on Goals
-
+![Chart of Outcomes based on Launch Date](https://github.com/lallben/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+As the chart indicates, it appears that fundraising campaigns that raise less than $5,000 enjoy the highest rate of success. The success rate for campaigns in the range of $10,000 - $15,000 has been 54% in the past.
 ### Challenges and Difficulties Encountered
 
 ## Results
